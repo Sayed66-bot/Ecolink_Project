@@ -265,9 +265,12 @@ The proposal identifies the following future opportunities:
 
 ## Team
 
-- Md. Tanvir Rahman -Id:0432320005101116
-- Faisal Ahmed -Id:0432320005101129
-- Md. Sayed -Id:0432320005101148
+- Md. Tanvir Rahman
+- Id:0432320005101116
+- Faisal Ahmed
+- Id:0432320005101129
+- Md. Sayed
+- Id:0432320005101148
 
 ## Conclusion
 
